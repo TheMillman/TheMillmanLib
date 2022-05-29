@@ -2,6 +2,8 @@
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/themillmanlib/files",
     "promos": {
 	      "1.18.1-latest": "0.0.12",
-	      "1.18.1-recommended": "0.0.12"
+	      "1.18.1-recommended": "0.0.12",
+	      "1.18.2-latest": "0.0.14",
+	      "1.18.2-recommended": "0.0.14"
     }
 }
